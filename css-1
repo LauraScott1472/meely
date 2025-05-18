@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Henny Penny';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf) format('truetype');
+}

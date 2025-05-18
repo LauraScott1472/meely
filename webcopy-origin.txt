@@ -1,0 +1,488 @@
+Uri: https://code.jivosite.com/widget/rbmcaqmuDG
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\widget\rbmcaqmuDG
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\index.htm
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/account/assets/css/dashlite.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\css\dashlite.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/account/assets/css/theme.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\css\theme.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nioicon.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nioicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nioicon.svg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nioicon.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nioicon.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nioicon.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nioicon.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nioicon.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Bold.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Bold.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Bold.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Bold.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Bold.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Regular.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Regular.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Regular.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Regular.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Nunito-Regular.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Nunito-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Bold.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Bold.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Bold.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Bold.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Bold.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Light.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Light.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Light.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Light.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Light.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Light.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Light.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Medium.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Medium.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Medium.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Medium.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Medium.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Regular.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Regular.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Regular.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Regular.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/account/assets/fonts/Roboto-Regular.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\fonts\Roboto-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/account/assets/js/bundle.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/assets/js/scripts.js?ver=2.4.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/css/toastr.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\css\toastr.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/account/images/banking.svg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\images\banking.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/account/images/favicon.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\images\favicon.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/account/images/onlinebanking.svg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\images\onlinebanking.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/account/images/security.svg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\images\security.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/account/index
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\index.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/account/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/js/toastr.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\js\toastr.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/js/vendors/sweetalert.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\js\vendors\sweetalert.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/account/logo.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\logo.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/account/scss/sweetalert.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\account\scss\sweetalert.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/contact.php
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\contact.php.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/css/animate.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\animate.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/glightbox.min.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\glightbox.min.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/LineIcons.2.0.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\LineIcons.2.0.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/tiny-slider.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\tiny-slider.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/css/typography.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css\typography.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/fonts/flaticon.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticon.css
+Content Type: text/css
+
+Uri: https://coretrustedbank.com/fonts/flaticond8bfd8bf.eot?613050ed3a59da38efe753f9a8ce0cc9
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticond8bfd8bf.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/fonts/flaticond8bfd8bf.svg?613050ed3a59da38efe753f9a8ce0cc9
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticond8bfd8bf.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/fonts/flaticond8bfd8bf.ttf?613050ed3a59da38efe753f9a8ce0cc9
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticond8bfd8bf.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/fonts/flaticond8bfd8bf.woff2?613050ed3a59da38efe753f9a8ce0cc9
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticond8bfd8bf.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/fonts/flaticond8bfd8bf.woff?613050ed3a59da38efe753f9a8ce0cc9
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\flaticond8bfd8bf.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfont3e6e-23e6e.html?v=4.7.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfont3e6e-23e6e.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfont3e6e3e6e.html?v=4.7.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfont3e6e3e6e.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfont3e6e3e6e.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfont3e6e3e6e.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfont3e6e3e6e.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfont3e6e3e6e.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfont3e6e3e6e.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfont3e6e3e6e.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/fonts/fontawesome-webfontd41dd41d.html?
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\fontawesome-webfontd41dd41d.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/fonts/LineIcons.eot
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\LineIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coretrustedbank.com/fonts/LineIcons.svg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\LineIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://coretrustedbank.com/fonts/LineIcons.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\LineIcons.ttf
+Content Type: font/ttf
+
+Uri: https://coretrustedbank.com/fonts/LineIcons.woff
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\LineIcons.woff
+Content Type: font/woff
+
+Uri: https://coretrustedbank.com/fonts/LineIcons.woff2
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\fonts\LineIcons.woff2
+Content Type: font/woff2
+
+Uri: https://coretrustedbank.com/images/about/about.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\about\about.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/banner.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/clients/logo1.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\clients\logo1.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/clients/logo2.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\clients\logo2.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/clients/logo3.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\clients\logo3.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/clients/logo4.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\clients\logo4.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/clients/logo5.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\clients\logo5.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/counter/counter-bg.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\counter\counter-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/curve-arrow-shape.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\curve-arrow-shape.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/favicon.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\favicon.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/footer-bg.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\footer-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/hero/hero.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\hero\hero.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/logo.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\logo.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/map-2.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\map-2.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/map.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\map.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/projects/01.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\projects\01.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/projects/02.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\projects\02.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/projects/03.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\projects\03.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/projects/04.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\projects\04.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/projects/05.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\projects\05.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/service/01.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\service\01.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/service/02.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\service\02.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/service/service-details.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\service\service-details.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/service/shape.png
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\service\shape.png
+Content Type: image/png
+
+Uri: https://coretrustedbank.com/images/testimonial/1.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\testimonial\1.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/testimonial/2.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\testimonial\2.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/images/testimonial/3.jpg
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\images\testimonial\3.jpg
+Content Type: image/jpeg
+
+Uri: https://coretrustedbank.com/index.php
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\index.php.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/js/glightbox.min.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\glightbox.min.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/js/main.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/js/tiny-slider.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\tiny-slider.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/js/wow.min.js
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://coretrustedbank.com/projects.php
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\projects.php.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/service-details.php
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\service-details.php.html
+Content Type: text/html
+
+Uri: https://coretrustedbank.com/style.css
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500&display=swap
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Henny+Penny&display=swap
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/hennypenny/v17/wXKvE3UZookzsxz_kjGSfPQtvXc.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\hennypenny\v17\wXKvE3UZookzsxz_kjGSfPQtvXc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\coretrustedbank.com\translate_a\element.js
+Content Type: text/javascript
+
